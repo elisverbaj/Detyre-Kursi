@@ -450,13 +450,13 @@ void menu() {
     int zgjedhje;
     do {
         printf("\nSistemi i Menaxhimit të Qendrës së Kurseve\n");
-        printf("1. Regjistro Student\n");
+        printf("1. Regjistro Studente\n");
         printf("2. Krijo Instruktor\n");
         printf("3. Krijo Kurs\n");
         printf("4. Regjistro Student në Kurs\n");
         printf("5. Fshi Instruktor\n");
         printf("6. Fshi Kurs\n");
-        printf("7. Çregjistro Student nga Kurs\n");
+        printf("7. Çregjistro Student nga Kursi\n");
         printf("8. Listo të Gjitha Kurset\n");
         printf("9. Listo të Gjithë Studentët\n");
         printf("10. Listo të Gjithë Instruktorët\n");
